@@ -1,0 +1,12 @@
+{
+    "name": "wert2all/fake-php-package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wert2all",
+            "email": "wert2all@gmail.com"
+        }
+    ],
+    "require": {}
+}
